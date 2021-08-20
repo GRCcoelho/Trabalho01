@@ -1,0 +1,16 @@
+C:\Users\gabriel.coelho1\source\repos\Trabalho Gabriel Romeu Coelho\bin\Debug\net5.0\Trabalho Gabriel Romeu Coelho.exe
+C:\Users\gabriel.coelho1\source\repos\Trabalho Gabriel Romeu Coelho\bin\Debug\net5.0\Trabalho Gabriel Romeu Coelho.deps.json
+C:\Users\gabriel.coelho1\source\repos\Trabalho Gabriel Romeu Coelho\bin\Debug\net5.0\Trabalho Gabriel Romeu Coelho.runtimeconfig.json
+C:\Users\gabriel.coelho1\source\repos\Trabalho Gabriel Romeu Coelho\bin\Debug\net5.0\Trabalho Gabriel Romeu Coelho.runtimeconfig.dev.json
+C:\Users\gabriel.coelho1\source\repos\Trabalho Gabriel Romeu Coelho\bin\Debug\net5.0\Trabalho Gabriel Romeu Coelho.dll
+C:\Users\gabriel.coelho1\source\repos\Trabalho Gabriel Romeu Coelho\bin\Debug\net5.0\ref\Trabalho Gabriel Romeu Coelho.dll
+C:\Users\gabriel.coelho1\source\repos\Trabalho Gabriel Romeu Coelho\bin\Debug\net5.0\Trabalho Gabriel Romeu Coelho.pdb
+C:\Users\gabriel.coelho1\source\repos\Trabalho Gabriel Romeu Coelho\obj\Debug\net5.0\Trabalho Gabriel Romeu Coelho.csprojAssemblyReference.cache
+C:\Users\gabriel.coelho1\source\repos\Trabalho Gabriel Romeu Coelho\obj\Debug\net5.0\Trabalho Gabriel Romeu Coelho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.coelho1\source\repos\Trabalho Gabriel Romeu Coelho\obj\Debug\net5.0\Trabalho Gabriel Romeu Coelho.AssemblyInfoInputs.cache
+C:\Users\gabriel.coelho1\source\repos\Trabalho Gabriel Romeu Coelho\obj\Debug\net5.0\Trabalho Gabriel Romeu Coelho.AssemblyInfo.cs
+C:\Users\gabriel.coelho1\source\repos\Trabalho Gabriel Romeu Coelho\obj\Debug\net5.0\Trabalho Gabriel Romeu Coelho.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.coelho1\source\repos\Trabalho Gabriel Romeu Coelho\obj\Debug\net5.0\Trabalho Gabriel Romeu Coelho.dll
+C:\Users\gabriel.coelho1\source\repos\Trabalho Gabriel Romeu Coelho\obj\Debug\net5.0\ref\Trabalho Gabriel Romeu Coelho.dll
+C:\Users\gabriel.coelho1\source\repos\Trabalho Gabriel Romeu Coelho\obj\Debug\net5.0\Trabalho Gabriel Romeu Coelho.pdb
+C:\Users\gabriel.coelho1\source\repos\Trabalho Gabriel Romeu Coelho\obj\Debug\net5.0\Trabalho Gabriel Romeu Coelho.genruntimeconfig.cache
